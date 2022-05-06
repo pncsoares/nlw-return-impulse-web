@@ -15,6 +15,7 @@ This repository contains the web user interface of the widget.
 
 - [React](https://www.typescriptlang.org/docs/)
 - [Vite](https://vitejs.dev/guide/)
+- [TypeScript](https://www.typescriptlang.org/docs/)
 - [TailwindCSS](https://tailwindcss.com/docs/installation)
 - [Axios](https://axios-http.com/docs/intro)
 
