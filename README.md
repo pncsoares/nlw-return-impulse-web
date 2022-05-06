@@ -11,6 +11,12 @@ This repository contains the web user interface of the widget.
 
 ![widget](./assets/images/widget.png)
 
+# Improvements checklist
+
+- [ ] Dark/Light theme
+- [ ] Create feedback dashboard
+    - [ ] Authenticate with Firebase or OAuth
+
 # Technologies
 
 - [React](https://www.typescriptlang.org/docs/)
