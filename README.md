@@ -47,7 +47,7 @@ Go to the project directory
   cd nlw-return-impulse-web
 ```
 
-## Start the server
+## Start the web application
 
 Open terminal and execute the following command:
 
