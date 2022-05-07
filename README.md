@@ -11,6 +11,12 @@ This repository contains the web user interface of the widget.
 
 ![widget](./assets/images/widget.png)
 
+# Layout
+
+You can find the layout of this project [in this link](https://www.figma.com/community/file/1102912516166573468).
+
+You must create an account to access and view.
+
 # Improvements checklist
 
 - [ ] Dark/Light theme
