@@ -28,11 +28,11 @@ export function FeedbackContentStep({
 
         setIsSendingFeedback(true);
 
-        await api.post('/feedback', {
-            type: feedbackTypeInfo,
-            comment,
-            screenshot,
-        });
+        // await api.post('/feedback', {
+        //     type: feedbackTypeInfo,
+        //     comment,
+        //     screenshot,
+        // });
 
         setIsSendingFeedback(false);
         onFeedbackSent();
